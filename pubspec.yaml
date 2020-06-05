@@ -57,6 +57,11 @@ flutter:
      - assets/intro1.png
      - assets/intro2.png
      - assets/intro3.png
+     - assets/images_git/screen1.png
+     - assets/images_git/screen2.png
+     - assets/images_git/screen3.png
+     - assets/images_git/screen4.png
+     - assets/images_git/home_page.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
